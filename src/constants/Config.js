@@ -1,0 +1,1 @@
+export const API_URL = 'https://console.dev.goido.net/api/';
